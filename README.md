@@ -3,9 +3,9 @@ HNR-Flyme 6.7.12.29 IR (MM6.0.1) source files for AMOI L861 (aka Stonex One / Sa
 
 Built packages available for download at :
 
-- Main Repo L861 https://goo.gl/9GSjzW (subfolder \99_ROM_M_FLYMEOS_6_712x\01_HNR_COMPILED_PACKAGE )
+- Main Repo L861 https://goo.gl/9GSjzW (*subfolder \99_ROM_M_FLYMEOS_6_712x\01_HNR_COMPILED_PACKAGE* )
 
-- NeedRom page *upload in progress*
+- NeedRom page https://www.needrom.com/download/l861-hnr-flyme-6-7-12-29ir/
 
 --------
 
